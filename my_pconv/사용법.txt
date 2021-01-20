@@ -1,0 +1,1 @@
+python my_main.py --image '/home/user_5/bg/mydeep/my_pconv/data/image_sample/image_1.jpg' --mask '/home/user_5/bg/mydeep/my_pconv/data/mask_sample/mask_1.png' --savepath '/home/user_5/bg/mydeep/my_pconv/data/result_sample/result_1.jpg' --weight "/home/user_5/bg/mydeep/my_pconv/data/weights/weights.22-4.13.h5" --gpu Flase
